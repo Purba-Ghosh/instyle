@@ -188,7 +188,7 @@ img{
 }
 .subheading{
     text-align:center;
-    padding:100px 0;
+    padding:50px 0;
     background : #f6f6f6;
 }
     
@@ -204,8 +204,8 @@ img{
     position:relative;
 }
 .productPanel img{
-    width:50px;
-    height:50px;
+    width:100px;
+    height:100px;
 }
 
     
