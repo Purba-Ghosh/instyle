@@ -195,7 +195,7 @@ img{
 }
 .productPanel{
     display : grid;
-    grid-template-coloums:auto auto auto auto;
+    grid-template-colums:auto auto auto auto;
 }
 .productPanel div{
     position:relative;
