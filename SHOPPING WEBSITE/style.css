@@ -186,3 +186,23 @@ img{
   from {opacity: .4}
   to {opacity: 1}
 }
+
+.subheading h1{
+    color: black;
+    text-align:center;
+    padding:100px 0;
+    background : #f6f6f6;
+}
+.productPanel{
+    display : grid;
+    grid-template-coloums:auto auto auto auto;
+}
+.productPanel div{
+    position:relative;
+}
+.productPanel img{
+    width:100%;
+    height:auto;
+}
+
+    
