@@ -186,12 +186,15 @@ img{
   from {opacity: .4}
   to {opacity: 1}
 }
-
-.subheading h1{
-    color: black;
+.subheading{
     text-align:center;
     padding:100px 0;
     background : #f6f6f6;
+}
+    
+.subheading h1{
+    color: black;
+   
 }
 .productPanel{
     display : grid;
@@ -201,8 +204,8 @@ img{
     position:relative;
 }
 .productPanel img{
-    width:100%;
-    height:auto;
+    width:50px;
+    height:50px;
 }
 
     
